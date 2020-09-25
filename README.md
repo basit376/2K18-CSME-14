@@ -17,15 +17,15 @@
 
 ## Introduction and motivation 
 
-## Smartphones are the most widely used devices nowadays and more than 2.5 million users used worldwide. There are most two popular app stores which are the apple app store and Google play store. There are millions of peoples using screencasting features. So it can be very useful a developers to find programming questions online in videos that are hosted by YouTube about programming. This is due to the hard part of YouTube, which hosted very limited information. 
+<h2>Smartphones are the most widely used devices nowadays and more than 2.5 million users used worldwide. There are most two popular app stores which are the apple app store and Google play store. There are millions of peoples using screencasting features. So it can be very useful a developers to find programming questions online in videos that are hosted by YouTube about programming. This is due to the hard part of YouTube, which hosted very limited information. </h2>
 
 # Motivation: 
 
-### In this paper. We take a step forward to look at this problem by localizing, extracting, and presenting most respective UI screens to the developer. It can be helpful to compare quickly by developers to see an overview of a video about apps developed screencasts programming about relevant to their information needs. We keep a deep eye on the UI of an app since it captures and provides the features and it in actions. Ours focused to explore UI overview and it’s based on deep convolution neural network(CNN) which has include features of images extractor and detectors of object UI screens to locate within the frames of a programming screencast. The UI screen is extracted and filtered only the unique UI screen is kept. And this approach integrated into the tool which is also available online for use. 
+<h2> In this paper. We take a step forward to look at this problem by localizing, extracting, and presenting most respective UI screens to the developer. It can be helpful to compare quickly by developers to see an overview of a video about apps developed screencasts programming about relevant to their information needs. We keep a deep eye on the UI of an app since it captures and provides the features and it in actions. Ours focused to explore UI overview and it’s based on deep convolution neural network(CNN) which has include features of images extractor and detectors of object UI screens to locate within the frames of a programming screencast. The UI screen is extracted and filtered only the unique UI screen is kept. And this approach integrated into the tool which is also available online for use. </h2>
 
 # Importance:
 
-## This research is important for developing a new mobile app and focused on its features many developers find their QAs about mobile programming of screencasting materials on youtube, so the UI screencasting is better to understand deep mobile programming, video mining, mobile developers
+<h2> This research is important for developing a new mobile app and focused on its features many developers find their QAs about mobile programming of screencasting materials on youtube, so the UI screencasting is better to understand deep mobile programming, video mining, mobile developers </h2>
 
 # Methodology:
 
